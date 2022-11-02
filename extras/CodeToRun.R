@@ -12,6 +12,9 @@ pw <- 'your password'
 server <- 'your server'
 port <- 'your port'
 
+install.packages("devtools")
+devtools::install_github("OHDSI/CohortGenerator")
+
 connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = dbms,
                                                                 server = server,
                                                                 user = user,
