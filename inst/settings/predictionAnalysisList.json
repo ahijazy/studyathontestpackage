@@ -1,8 +1,8 @@
 {
   "analyses": [
     {
-      "targetId": 5430,
-      "outcomeId": 5412,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -111,8 +111,8 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
-      "outcomeId": 5413,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -221,8 +221,8 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
-      "outcomeId": 5414,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -331,7 +331,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5415,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -441,8 +441,8 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
-      "outcomeId": 5418,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -551,8 +551,8 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
-      "outcomeId": 5419,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -661,8 +661,8 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
-      "outcomeId": 5420,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -771,8 +771,8 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
-      "outcomeId": 5421,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -881,8 +881,8 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
-      "outcomeId": 5422,
+      "targetId": 1,
+      "outcomeId": 2,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
         "studyEndDate": "",
@@ -991,7 +991,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5423,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1101,7 +1101,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5424,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1211,7 +1211,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5425,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1321,7 +1321,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5426,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1431,7 +1431,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5427,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1541,7 +1541,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5428,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1651,7 +1651,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5429,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1761,7 +1761,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5431,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1871,7 +1871,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5432,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -1981,7 +1981,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5433,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -2091,7 +2091,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5434,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -2201,7 +2201,7 @@
       "attr_class": "modelDesign"
     },
     {
-      "targetId": 5430,
+      "targetId": 1,
       "outcomeId": 5435,
       "restrictPlpDataSettings": {
         "studyStartDate": "",
@@ -2328,7 +2328,7 @@
   },
   "cohortDefinitions": [
     {
-      "id": 5430,
+      "id": 1,
       "name": "[plp task] target MDD treated",
       "createdBy": {
         "id": 1043,
@@ -3471,7 +3471,7 @@
       "expressionType": "SIMPLE_EXPRESSION"
     },
     {
-      "id": 5413,
+      "id": 2,
       "name": "[plp task] acute liver injury inpatient",
       "createdBy": {
         "id": 1043,
@@ -3926,7 +3926,7 @@
     {
       "id": 5414,
       "name": "[plp task] constipation",
-      "description": "All events of Myocardial Infarction, indexed on a condition occurrence of Myocardial Infarction (MI), limited to events with overlapping inpatient visit with no such events in prior 365 days (clean window). Persons exit the cohort at the start date + 1 day. ",
+      "description": "All events of Myocardial Infarction, indexed on a conditionÂ occurrenceÂ ofÂ Myocardial Infarction (MI),Â limited to events with overlapping inpatient visit with no such events in prior 365 daysÂ (clean window). Persons exit the cohort at the start date + 1 day.Â ",
       "createdBy": {
         "id": 1043,
         "name": "eu\\jreps",
