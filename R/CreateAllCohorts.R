@@ -55,7 +55,7 @@ createCohorts <- function(
 }
 
 addCohortNames <- function(data, IdColumnName = "cohortId", nameColumnName = "cohortName") {
-  pathToCsv <- system.file("Cohorts.csv", package = "SkeletonPredictionStudy")
+  pathToCsv <- system.file("settings/CohortsToCreate.csv", package = "SkeletonPredictionStudy")
 
   idToName <- utils::read.csv(pathToCsv)
   idToName <- idToName[order(idToName$cohortId), ]
