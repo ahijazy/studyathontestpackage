@@ -14,11 +14,11 @@
       "covariateSettings": [
         {
           "temporal": false,
-          "DemographicsGender": true,
+          "DemographicsGender": false,
           "DemographicsAgeGroup": true,
-          "ConditionGroupEraLongTerm": true,
-          "DrugGroupEraLongTerm": true,
-          "VisitConceptCountLongTerm": true,
+          "ConditionGroupEraLongTerm": false,
+          "DrugGroupEraLongTerm": false,
+          "VisitConceptCountLongTerm": false,
           "longTermStartDays": -365,
           "mediumTermStartDays": -180,
           "shortTermStartDays": -30,
