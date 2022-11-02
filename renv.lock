@@ -789,12 +789,6 @@
 			"Source" : "Repository",
 			"Repository" : "CRAN"
 		},
-		"CohortGenerator" : {
-			"Package" : "CohortGenerator",
-			"Version" : "0.3.0",
-			"Source" : "Repository",
-			"Repository" : "CRAN"
-		},
 		"rmarkdown" : {
 			"Package" : "rmarkdown",
 			"Version" : "2.11",
@@ -905,13 +899,13 @@
 		},
 		"CohortGenerator" : {
 			"Package" : "CohortGenerator",
-			"Version" : "0.3.0",
+			"Version" : "0.7.0",
 			"Source" : "GitHub",
 			"RemoteType" : "github",
 			"RemoteHost" : "api.github.com",
 			"RemoteRepo" : "CohortGenerator",
 			"RemoteUsername" : "ohdsi",
-			"RemoteRef" : "v0.3.0"
+			"RemoteRef" : "v0.7.0"
 		},
 		"FeatureExtraction" : {
 			"Package" : "FeatureExtraction",
