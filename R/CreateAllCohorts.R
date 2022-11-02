@@ -31,7 +31,7 @@ createCohorts <- function(
                                       )
   )
   cohortDefinitionSet <- CohortGenerator::getCohortDefinitionSet(packageName = "SkeletonPredictionStudy",
-                                                                 settingsFileName = "settings/Cohorts.csv",
+                                                                 settingsFileName = "settings/CohortsToCreate.csv",
                                                                  cohortFileNameValue = "cohortId")
   CohortGenerator::generateCohortSet(connection = connection,
                                      cohortDatabaseSchema = databaseDetails$cohortDatabaseSchema,
