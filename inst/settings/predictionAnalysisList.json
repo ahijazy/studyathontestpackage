@@ -30,7 +30,7 @@
         }
       ],
       "populationSettings": {
-        "binary": true,
+        "binary": true,a
         "includeAllOutcomes": true,
         "firstExposureOnly": false,
         "washoutPeriod": 0,
